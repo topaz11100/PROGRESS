@@ -155,7 +155,7 @@
 인간의 **대규모 누적 문화(grand-scale cumulative culture)**는 **2차적 정보(secondary information)**에 기반하지만,
 이 절에서는 **생물학적으로 1차적 정보에 기반한 두 가지 하위 수준의 문화 형태**를 언급한다:
 
-1. **비누적 문화(non-cumulative culture)**: 일부 **비인간 동물(non-human animals)**에게서 관찰되는 **지역적 전통(local traditions)**
+1. **비-누적 문화(non-cumulative culture)**: 일부 **비인간 동물(non-human animals)**에게서 관찰되는 **지역적 전통(local traditions)**
 2. **진화된 누적 문화(evolved cumulative culture)**: 인간의 **민속 지식(folk knowledge)**, **전통**, **도구 사용**과 관련 (일부 유인원에게서도 제한적으로 존재)
 
 (Kalyuga, 2025 간략 리뷰 참조)

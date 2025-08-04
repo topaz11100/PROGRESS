@@ -32,7 +32,7 @@ LEAP 코호트에서는 총 386명(최초 방문 당시 6~~31세; 자폐 214명,
 
 하지만 이러한 발달의 조정력(coordination of maturation)은 신경발달 장애(neurodevelopmental conditions)에서는 변화(alteration)를 겪을 수 있으며, 이는 자폐(autism)와 같은 상태에서의 다양한 임상 양상(clinical phenotypes)을 설명하는 데 중요할 수 있다. 자폐는 신경발달 상태 중 이질성(heterogeneity)이 가장 두드러지는 사례로, 행동, 생리, 신경 및 유전적 수준에서 개인 간 차이가 매우 크다. 현재까지 대부분의 신경영상 연구는 단일 시점에서의 뇌 구조 차이(group-level anatomical differences)나, 진단 및 행동 점수와의 단순 상관관계에 초점을 맞추었다. 그러나 이로 인해 자폐의 병태생리(pathophysiology)와 임상적 다양성(clinical diversity)을 설명하는 데는 한계가 존재했다.
 
-이에 따라 본 연구는 다음의 중요한 질문을 다룬다: 자폐 스펙트럼에서의 뇌 발달은 전형적으로 발달하는 개인과 어떻게 다른가? 이러한 뇌 성숙의 차이는 자폐에서 나타나는 임상 양상(예: 감각 과민성, 사회적 상호작용의 어려움 등)과 어떤 관련이 있는가? 더 나아가, 이러한 차이는 분자생물학적 경로(molecular biological pathways), 특히 유전자의 시간적 발현 패턴(temporally dynamic gene expression patterns)과 연결되는가?
+이에 따라 본 연구는 다음의 중요한 질문을 다룬다: 자폐 스펙트럼에서의 뇌 발달은 전형적으로 발달하는 개인과 어떻게 다른가? 이러한 뇌 성숙의 차이는 자폐에서 나타나는 임상 양상(예: 감각 과민성, 사회적 상호작용의 어려움 등)과 어떤 관련이 있는가? 더 나아가, 이러한 차이는 분자생물학적 경로(molecular biological pathways), 특히 유전자의 시간적 발현 패턴(temporally dynamic gene expressio patterns)과 연결되는가?
 
 이를 위해 본 연구는 대규모 종단적(longitudinal) 사례-대조(case-control) 신경영상 데이터를 활용하여, 자폐와 전형 발달 아동·청소년·성인의 뇌 성숙 궤적(maturational trajectories)을 비교하였다. 특히 **표면 기반 형태측정(surface-based morphometry)** 분석을 통해, 피질 두께(cortical thickness) 및 표면적(surface area) 변화의 개인별 궤적을 정량화하였다. 이러한 뇌 성숙 패턴은 이후, (1) 자폐 증상의 임상적 프로파일(clinical profile), (2) 특정 세포 유형(cell type) 및 발달 시기별 유전자 발현 프로파일(transcriptomic signatures)과 연관지어 분석하였다.
 
